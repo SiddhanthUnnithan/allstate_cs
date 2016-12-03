@@ -1,2 +1,2 @@
 # allstate_cs
-Allstate Claims Severity Kaggle Competition
+Allstate Claims Severity Analysis
